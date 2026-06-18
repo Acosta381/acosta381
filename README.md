@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Acosta381/acosta381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Acosta, currently a computer science student and backend engineer currently based in the UK.
 
-Here are some ideas to get you started:
+I work on backend stuff — Python, FastAPI, PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also use Docker for containerization and AWS to deploy my projects.  
+
+---
+
+## 🛠️ Tools & Tech
+* **Languages:** Python
+* **Frameworks:** FastAPI, Flask (Basic)
+* **Databases** PostgreSQL
+* **DevOps & Cloud:** Docker, AWS
+* **Version Control:** Git  
+
+---
+
+## A Bit About Me
+* ⚽ Favourite sport is football
+* 🎴 Into anime — Dragon Ball is my favourite
+* 🧱 I like building things that are simple, useful and easy to understand
